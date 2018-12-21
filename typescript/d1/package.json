@@ -1,0 +1,15 @@
+{
+  "name": "adventofcode-d1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Stevenson-Leggett",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.18",
+    "ts-stream": "^2.0.0"
+  }
+}
